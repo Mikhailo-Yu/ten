@@ -11,3 +11,4 @@ function removeElement(array, item) {
 console.log(myArray);
 removeElement(myArray, 55);
 console.log(myArray);
+
